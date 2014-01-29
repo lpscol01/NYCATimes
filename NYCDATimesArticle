@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<link rel="stylesheet" type="text/css" href="style.css">
+
+		<title>New York Code & Design Academy Times</title>
+
+		<h1><i> <img src="img/logo.svg" width="225px"> New 
+		York Code & Design Academy Times</i> </h1>
+		<h3>Wednesday, January 23, 2014</h3>
+	</head>
+	
+	<body>
+		<hr>
+		<p id="top"></p>
+		<div id="title">
+			<p>The Best Jobs of 2014</p>
+		</div>
+		
+		<div id="by">
+			<p>By Jada A. Graves<br>
+				January 23, 2014 6:06 AM</p>
+		</div>	
+
+		<div class="photo"><img src="img/job2.jpg" width="500px"></div>
+
+		<div class="paragraphs">
+			<p>At U.S. News, we publish an annual ranking of jobs, to analyze some of the most important choices job seekers encounter when selecting a career and to provide context for how jobs within the same industry compare. Our picks share one thing: They're jobs where employment should grow exponentially and faster than the average rate from 2012 to 2022, according to predictions by the U.S. Department of Labor's Bureau of Labor Statistics. For 2014, there have been shake-ups. Though the BLS continues to paint a rosy landscape for some industries, it's also taken a closer look at where opportunity is most expected. What this means for us: We're ranking 18 new jobs this year. Nineteen jobs were bumped from our list entirely. And perhaps the biggest change: For the first time, our No. 1 job overall isn't from the health care industry -- it's a tech job.</p>
+
+			<p>Why and how did technology eke out the top spot? What's going on in construction? And what's happening in health care? Read on:</p>
+
+			<p><b>Technology</b></p>
+
+			<p>The biggest news within this industry is that an information technology job usurped health care from the top slot. Software developer rose from No. 7 in 2013 to this year's most attractive profession, with employment expected to swell 23 percent by 2022. Our increased dependence on mobile software has fostered superb job opportunity for software developers, plus the salary is none too shabby - in 2012, their median salary was $90,060.</p>
+
+			<p>The new tech job to make our list shouldn't come as a surprise. In the past year, our airwaves and Internet feeds have been clogged with tales of compromised security, leaked intelligence and diminished privacy, so of course, positions for our No. 11 job, information security analyst, are popping up at Whack-A-Mole speed: 36.5 percent between 2012 and 2022, according to the BLS. Prospects are good, but the most desirable candidates should have a well-rounded computer education and some prior experience working in information technology. Certifications will also make you a top applicant.</p>
+
+			<p><b>Health Care</b></p>
+
+			<p>Take your pick of the 38 health care jobs, and you'll find the same story: There are more openings than applicants to fill them. "Health care is the strongest job area of the economy right now," says John Challenger, CEO of Challenger, Gray & Christmas, Inc., an outplacement consulting firm. "It's a consistent creator of jobs, so there's so much demand for the services," he says, adding that 31 million more people have access to insurance due to health care reform.</p>
+
+			<p>Registered nurses are a barn-burner profession and should result in 526,800 new positions created at a rate of 19.4 percent. This year, registered nurse takes the No. 6 slot. We also added two new nursing positions: Our No. 4 job, nurse practitioner, has a median salary of $89,960 and glowing job prospects. The BLS predicts this job's growth will be spirited by health care reform, as nurse practitioners are qualified to perform physical exams and write prescriptions for the increased number of patients. Our No. 38 job, licensed practical and licensed vocational nurse, should grow at a rate of 25 percent, with the most favorable prospects for those willing to work in rural areas.</p>
+
+			<p><b>Business</b></p>
+
+			<p>Some of the business jobs that previously made our 100 Best were trumped by new health care jobs. Still, the top occupation from this sector, market research analyst, rose in the rankings from No. 21 to No. 15. The BLS predicts the 132,000 added jobs for this position should crop up at a speedy rate of 31.6 percent.</p>
+
+			<p>One new business job, operations research analyst, also places in the top half of our list with an ultra-low unemployment rate and 20,000 expected new openings. Duties for this No. 23 job include identifying logistical problems within an organization and using statistical analysis to solve them. Some might find an entry-level position with just a bachelor's degree, but it's budding analysts with an advanced degree who should have the best job chances.</p>
+
+			<p><b>Social Services</b></p>
+				<span id="photo2"><img src="img/teacher.jpg" width="350px"></span>
+
+			<p>Our social services jobs introduce an element of surprise. Take, for instance, nail technician - the No. 49 job overall. It places above more traditional jobs in this sector, like lawyer (No. 51) , elementary school teacher (No. 64) and patrol officer (No. 69), partially because nail care is a low-cost luxury that people of many income levels can splurge on. The BLS predicts 15.6 percent employment growth for this occupation by 2022. Though the median salary is somewhat low - only $19,220 in 2012 - many manicurists and pedicurists work part-time and have flexible schedules. Challenger isn't surprised that personal care jobs like nail technician, hairdresser (No. 65) and recreation and fitness worker (No. 70) made our rankings. "People now have more discretionary income and consumer confidence has risen," he says.</p>
+
+			<p>"The idea that these lower-wage and seemingly less-skilled jobs aren't good jobs is such a misconception," Challenger adds. "Unemployment is heaviest among high school grads and those without a high school diploma, and these are often jobs that they can transition into."</p>
+
+			<p><b>Construction</b></p>
+
+			<p>Some of the fastest-growing occupations hail from this industry - like brickmasons and blockmasons (35.5 percent) and insulation contractors (37.6 percent) - but their growth rate wasn't enough to ensure them a spot in the top 100. It's those construction jobs that possess the just-right blend of high demand and low unemployment that make the strongest showing for 2014. The unemployment rate for this industry's top-ranking job, construction manager, is 4.7 percent, helping it to rise from No. 50 in 2013 to No. 37 this year. With more than 78,000 new openings, the construction management work force should expand 16.1 percent by 2022. "Construction is an area that continues to dig out of the hole it was in," Challenger says. "Debt loads are freeing up, people are going back to work and the housing market is improving, so there's potential."</p>
+
+			<p><b>Creative</b></p>
+
+			<p>For this industry, no news is good news. In three years, we've neither added creative jobs to our rankings, nor have any slipped off the list. The three creative jobs we cover - architect, art director and public relations specialist - have held consistently respectable slots year after year. Public relations specialist continues to be the standout, ranking No. 85. Our infatuation with social media bodes well for PR specialists and ensures their job prospects: the BLS projects 27,000 new openings by 2022. As an architect (No. 92), your hiring fate will largely be tied to the strength of the construction industry. The BLS predicts 17.3 percent employment growth in this field between 2012 and 2022.</p>
+
+			<p><u>Here are the top 10 jobs:</u>
+
+				<ol>
+					<li>Software Developer</li>
+					<li>Computer Systems Analyst</li>
+					<li>Dentist</li>
+					<li>Nurse Practitioner</li>
+					<li>Pharmacist</li>
+					<li>Registered Nurse</li>
+					<li>Physical Therapist</li>
+					<li>Physician</li>
+					<li>Web Developer</li>
+					<li>Dental Hygienist</li>
+			</p>
+			<br>
+			<p><b>More From US News & World Report</b>
+				<ul>
+					<li><a href="http://money.usnews.com/careers/best-jobs/rankings/the-100-best-jobs">The 100 Best Jobs of 2014</a></li>
+					<li><a href="http://money.usnews.com/careers/best-jobs/rankings">The Best Jobs Rankings</a></li>
+					<li><a href="http://money.usnews.com/careers/best-jobs/rankings/best-technology-jobs">The Best Technology Jobs</a></li>
+			</p>		
+		</div>
+
+		<p class="footer"><a href="NYCDATimesHOME.html">back to NYCDA Times</a> | <a href="#top">back to top</a></p> 
+	</body>	
+</html>

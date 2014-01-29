@@ -1,0 +1,88 @@
+html{
+	margin: 0 auto; 
+	width: 900px;
+}
+
+body {
+	border: 10px double gray; 
+}
+
+* {box-sizing: border-box;}
+
+p {
+	padding-right: 20px;
+	font-family: arial
+}
+
+img {
+	margin-left: 20px;
+	border: solid gray 2px;
+}
+
+.col1 {
+	float: left; 
+	width: 50%; 
+	padding-right: 50px;
+}
+
+.col2 {
+	float: right;
+	width: 50%; 
+	padding-left: 50px;
+}
+
+h1 {
+	text-align: right; 
+	padding-right: 50px;
+}
+
+h1 img {
+	display: block; 
+	position: absolute;
+}
+
+h3 {
+	text-align: right; 
+	padding-right: 15px; 
+	font-family: arial
+}
+
+#title {
+	font-size: 32pt; 
+	font-weight: bold; 
+	padding-left: 20px; 
+	padding-top: 10px
+}
+
+#by {
+	font-size: 16pt; 
+	font-style: italic; 
+	padding-left: 20px
+}	
+
+.photo {
+	float: left; 
+	padding-right: 20px
+}
+
+#photo2 {
+	float: right; 
+	padding-right: 20px; 
+	padding-bottom: 20px
+}
+
+.paragraphs {
+	padding-left: 20px;
+}
+
+.footer {
+	text-align: right;
+}
+
+a {
+	text-decoration: none; 
+	color: green;
+}
+a:visited {
+	color:orange;
+}
